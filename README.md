@@ -15,7 +15,7 @@ LS123 SU24
 ## Outcome of interest (dependent variable): risk of crime
 ## Independent variables/covariates/ predictors, features : proximity to police, Types of surrounding commercial facilities, population density, land type, street lighting
 ## Potential explanations for the association of variables : 
-1.  	Areas with certain types of commercial facilities, such as bars, may experience more crime due to increased foot traffic and alcohol consumption.
+1.  Areas with certain types of commercial facilities, such as bars, may experience more crime due to increased foot traffic and alcohol consumption.
 2. 	Higher population density might correlate with more crime due to increased opportunity.
 3. 	Streets farther from police stations may have slower response times and thus higher crime rates.
 4. 	Streets with brighter lighting are expected to have less crime compared to darker streets.
@@ -31,10 +31,10 @@ As students at UC Berkeley, the safety and well being of all students and reside
 
 # Data we used
 
-1.      Call for service : https://bpd-transparency-initiative-berkeleypd.hub.arcgis.com/datasets/3be134af40954e19a3d308779a65f175_0/explore?filters=eyJEaXNwb3NpdGlvbnMiOlsiUHJpbWFyeSBDYXNlIChDYXNlIG9yIENvbGQgVGhlZnQpIiwiSW5jaWRlbnQgUmVwb3J0Il0sIkNyZWF0ZURhdGV0aW1lIjpbMTY3MjkyOTM2OTE2NC41NiwxNzIxMDU1NjAwMDAwXX0%3D
-2.     Commercial : https://data.cityofberkeley.info/Business/Business-Licenses/rwnf-bu3w/about_data
-3.     census : (https://geocoding.geo.census.gov/geocoder/geographies/addressbatch?form)
-4.  alcohol (Active Retail Licenses, Berkeley): https://www.abc.ca.gov/licensing/licensing-reports/adhoc-report/?RPTTYPE=9&CITY=BERKELEY
+1. Call for service : https://bpd-transparency-initiative-berkeleypd.hub.arcgis.com/datasets/3be134af40954e19a3d308779a65f175_0/explore?filters=eyJEaXNwb3NpdGlvbnMiOlsiUHJpbWFyeSBDYXNlIChDYXNlIG9yIENvbGQgVGhlZnQpIiwiSW5jaWRlbnQgUmVwb3J0Il0sIkNyZWF0ZURhdGV0aW1lIjpbMTY3MjkyOTM2OTE2NC41NiwxNzIxMDU1NjAwMDAwXX0%3D
+2. Commercial : https://data.cityofberkeley.info/Business/Business-Licenses/rwnf-bu3w/about_data
+3. census : (https://geocoding.geo.census.gov/geocoder/geographies/addressbatch?form)
+4. alcohol (Active Retail Licenses, Berkeley): https://www.abc.ca.gov/licensing/licensing-reports/adhoc-report/?RPTTYPE=9&CITY=BERKELEY
 
 
 
