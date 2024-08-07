@@ -11,6 +11,8 @@ LS123 SU24
    
 3. Now the finished data is data_project.csv. Use this to do the modeling.
 
+4. use modeling.ipynb : Use the data_project.csv, show the summary statistics and the modeling.
+
 
 
 
